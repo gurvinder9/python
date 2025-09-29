@@ -18,6 +18,7 @@ python/
 │   ├── 04_control_flow.py
 │   └── README.md          # Learning guide
 ├── .pre-commit-config.yaml # Pre-commit hooks configuration
+├── .cursorrules            # Cursor IDE rules and guidelines
 ├── Makefile               # Development commands
 ├── CONTRIBUTING.md         # Contributing guidelines
 └── README.md              # This file - project overview
@@ -123,7 +124,9 @@ make help
 
 - **Learning Materials**: See `basic/README.md` for detailed learning instructions
 - **Source Code**: Check `src/` folder for the main project files
-- **Original README**: This file provides project overview and setup instructions
+- **Development Guidelines**: See `CONTRIBUTING.md` for contribution guidelines
+- **IDE Configuration**: `.cursorrules` file provides Cursor IDE with project-specific rules
+- **Main README**: This file provides project overview and setup instructions
 
 ## 🤝 Contributing
 

@@ -1,4 +1,7 @@
 .idea/
+CLAUDE.md
+.cursorrules
+.cursorignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
