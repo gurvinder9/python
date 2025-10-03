@@ -16,6 +16,15 @@ python/
 │   ├── 02_input_output.py
 │   ├── 03_operators.py
 │   ├── 04_control_flow.py
+│   ├── 05_loop.py
+│   ├── 06_dict.py
+│   ├── 06_dict-method.py
+│   ├── 07_list.py
+│   ├── 07_list-method.py
+│   ├── 08_list-comprehension.py
+│   ├── 09_dict-comprehension.py
+│   ├── 10_tuple.py
+│   ├── 11_sets.py
 │   └── README.md          # Learning guide
 ├── .pre-commit-config.yaml # Pre-commit hooks configuration
 ├── .cursorrules            # Cursor IDE rules and guidelines
@@ -38,6 +47,15 @@ python/
    - `02_input_output.py` - Understand input and output operations
    - `03_operators.py` - Master Python operators
    - `04_control_flow.py` - Learn conditional statements and loops
+   - `05_loop.py` - Comprehensive loop tutorial with examples
+   - `06_dict.py` - Dictionary basics and concepts
+   - `06_dict-method.py` - Dictionary methods and advanced patterns
+   - `07_list.py` - List basics and concepts
+   - `07_list-method.py` - List methods and advanced patterns
+   - `08_list-comprehension.py` - List comprehensions tutorial
+   - `09_dict-comprehension.py` - Dictionary comprehensions tutorial
+   - `10_tuple.py` - Tuple basics and when to use them
+   - `11_sets.py` - Set basics and when to use them
 
 3. **Run the examples:**
    ```bash
@@ -78,6 +96,15 @@ The `basic/` folder provides a structured learning path:
 2. **Input/Output** - User interaction basics
 3. **Operators** - Mathematical and logical operations
 4. **Control Flow** - Conditional statements and loops
+5. **Loops** - Comprehensive loop tutorial with practical examples
+6. **Dictionaries** - Key-value pairs and data organization
+7. **Dictionary Methods** - Advanced dictionary operations and patterns
+8. **Lists** - Ordered collections and data manipulation
+9. **List Methods** - Advanced list operations and patterns
+10. **List Comprehensions** - Concise list creation and transformation
+11. **Dictionary Comprehensions** - Concise dictionary creation and transformation
+12. **Tuples** - Immutable sequences and when to use them
+13. **Sets** - Unique collections and fast membership testing
 
 ## 🛠️ Development Setup
 
