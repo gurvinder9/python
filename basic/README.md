@@ -32,6 +32,89 @@ Follow these files in order for a structured learning experience:
 - Nested loops
 - Pass statement
 
+### 5. Loops (`05_loop.py`)
+- Comprehensive loop tutorial
+- For loops with range, lists, and strings
+- While loops with conditions
+- Nested loops and patterns
+- Loop control (break, continue, else)
+- Practical examples and common patterns
+
+### 6. Dictionaries (`06_dict.py`)
+- Dictionary basics and concepts
+- Creating and accessing dictionaries
+- Key-value pairs and data types
+- Iterating through dictionaries
+- Practical examples and common patterns
+
+### 7. Dictionary Methods (`06_dict-method.py`)
+- All important dictionary methods
+- Accessing methods (get, keys, values, items)
+- Modifying methods (update, copy)
+- Adding/removing methods (setdefault, pop, clear)
+- Dictionary comprehensions
+- Advanced patterns and method chaining
+
+### 8. Lists (`07_list.py`)
+- List basics and concepts
+- Creating and accessing lists
+- List operations and slicing
+- Modifying lists (adding, removing, changing)
+- Iterating through lists
+- Practical examples and common patterns
+
+### 9. List Methods (`07_list-method.py`)
+- All important list methods
+- Adding methods (append, insert, extend)
+- Removing methods (pop, remove, clear)
+- Searching methods (index, count)
+- Sorting and reversing methods
+- List comprehensions and advanced patterns
+
+### 10. List Comprehensions (`08_list-comprehension.py`)
+- Comprehensive list comprehension tutorial
+- Basic syntax and concepts
+- Filtering with conditions
+- Transformations and combinations
+- Nested comprehensions
+- Multiple conditions and else clauses
+- Practical examples and common patterns
+- Performance considerations and best practices
+
+### 11. Dictionary Comprehensions (`09_dict-comprehension.py`)
+- Comprehensive dictionary comprehension tutorial
+- Basic syntax and concepts
+- Filtering and transformations
+- Multiple conditions and else clauses
+- Nested dictionary comprehensions
+- Practical examples and common patterns
+- Performance considerations and best practices
+- When to use vs list comprehensions
+
+### 12. Tuples (`10_tuple.py`)
+- Tuple basics and concepts
+- Creating and accessing tuples
+- Immutability and its implications
+- Tuple operations and methods
+- When to use tuples vs lists
+- Tuples as dictionary keys
+- Tuple unpacking and multiple assignment
+- Functions returning tuples
+- Practical examples and common patterns
+- Performance considerations
+
+### 13. Sets (`11_sets.py`)
+- Set basics and concepts
+- Creating and accessing sets
+- Set operations and methods
+- Mathematical set operations (union, intersection, difference)
+- When to use sets vs lists vs tuples
+- Set comprehensions
+- Frozen sets and their uses
+- Practical examples and common patterns
+- Performance considerations and membership testing
+- Data analysis and validation use cases
+
 ## How to Run the Examples
 
 1. **Navigate to the basic folder:**
@@ -53,6 +136,15 @@ Follow these files in order for a structured learning experience:
    python basic/02_input_output.py
    python basic/03_operators.py
    python basic/04_control_flow.py
+   python basic/05_loop.py
+   python basic/06_dict.py
+   python basic/06_dict-method.py
+   python basic/07_list.py
+   python basic/07_list-method.py
+   python basic/08_list-comprehension.py
+   python basic/09_dict-comprehension.py
+   python basic/10_tuple.py
+   python basic/11_sets.py
    ```
 
 ## Tips for Learning
